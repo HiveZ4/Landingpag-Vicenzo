@@ -19,7 +19,7 @@
 .frame1-header {
   top: 0px;
   left: 0px;
-  width: 1440px;
+  width: 1920px;
   height: 140px;
   position: absolute;
 }
@@ -537,7 +537,7 @@
 .frame1-rectangle23 {
   top: 674px;
   left: 0px;
-  width: 1440px;
+  width: 1920px;
   height: 697px;
   position: absolute;
   border-color: rgba(27, 129, 49, 1);
@@ -683,7 +683,7 @@
 .frame1-rectangle3 {
   top: 1371px;
   left: 0px;
-  width: 1440px;
+  width: 1920px;
   height: 697px;
   position: absolute;
 }
@@ -730,7 +730,7 @@
 .frame1-rectangle10 {
   top: 2068px;
   left: 1px;
-  width: 1440px;
+  width: 1920px;
   height: 697px;
   position: absolute;
 }
@@ -767,7 +767,7 @@
 .frame1-group1 {
   top: 2765px;
   left: 0px;
-  width: 1440px;
+  width: 1920px;
   height: 864px;
   display: flex;
   position: absolute;
@@ -949,7 +949,7 @@
 .frame1-footer {
   top: 3630px;
   left: 0px;
-  width: 1440px;
+  width: 1920px;
   height: 260px;
   position: absolute;
 }
